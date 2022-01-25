@@ -1,11 +1,11 @@
-package com.thecode.sample
+package com.amaranese.sample
 
 import android.os.Bundle
 import android.view.View
 import android.widget.RadioButton
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.thecode.aestheticdialogs.*
+import com.amaranese.aestheticdialogs.*
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 

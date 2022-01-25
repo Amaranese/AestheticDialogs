@@ -1,4 +1,4 @@
-package com.thecode.sample
+package com.amaranese.sample
 
 import org.junit.Test
 
